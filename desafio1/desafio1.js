@@ -76,4 +76,4 @@ products.create({
   });
 
 console.log(products.read());
-console.log (products.readOne(2));
+console.log (products.readOne(3));
